@@ -16,7 +16,7 @@ This project focuses on customer segmentation for e-commerce businesses using da
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Technologies Used
 
@@ -37,7 +37,7 @@ The dataset used in this project is obtained from [insert source, e.g., Kaggle, 
 - **Recency**: Days since the last purchase.
 - **Demographic Information**: Such as age, gender, location (if available).
 
-[Optional: Link to the dataset if publicly available]
+https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## Features
 
@@ -120,15 +120,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Source of the dataset]
-- [Any tutorials, articles, or books that helped you in this project]
-
-```
-
-### Notes:
-- Make sure to replace placeholders like `yourusername` and `[insert source]` with the actual information relevant to your project.
-- Ensure that any additional modules or dependencies used in your project are listed in the `requirements.txt` file and that they are installed accordingly.
-- You can add more sections as needed, such as FAQ, Contact Information, etc.
